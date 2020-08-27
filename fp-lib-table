@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name robo_descontrolado)(type KiCad)(uri ${KIPRJMOD}/robo_descontrolado.pretty)(options "")(descr ""))
+)
