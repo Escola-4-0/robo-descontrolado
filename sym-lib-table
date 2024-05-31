@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name robo_descontrolado-rescue)(type Legacy)(uri ${KIPRJMOD}/robo_descontrolado-rescue.lib)(options "")(descr ""))
+)

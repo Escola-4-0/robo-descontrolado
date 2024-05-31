@@ -1,0 +1,211 @@
+Cmp-Mod V01 Created by PcbNew   date = 30/03/2021 22:20:10
+
+BeginCmp
+TimeStamp = 5FD15DCB
+Path = /5EF4AABF
+Reference = D1;
+ValeurCmp = 1N4007;
+IdModule  = Diode_THT:D_A-405_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F964409
+Path = /5ED9BDC5
+Reference = SW1;
+ValeurCmp = SW_SPDT;
+IdModule  = Personal:Slide_Switch;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FD8911A
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = Personal:microbit_placement;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F99A35F
+Path = /5F99DE27
+Reference = J8;
+ValeurCmp = Conn_01x05_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC93072
+Path = /5FCCB7D6
+Reference = J6;
+ValeurCmp = Screw_Terminal_01x06;
+IdModule  = TerminalBlock:TerminalBlock_bornier-6_P5.08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F9928EA
+Path = /5FA2E3CD
+Reference = U2;
+ValeurCmp = PCF8574;
+IdModule  = Package_DIP:DIP-16_W7.62mm_Socket;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F96AE12
+Path = /5FA3F271
+Reference = C3;
+ValeurCmp = C;
+IdModule  = Capacitor_THT:C_Radial_D5.0mm_H11.0mm_P2.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F98FFFD
+Path = /5F9B89E3
+Reference = J12;
+ValeurCmp = Conn_01x02_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F990566
+Path = /5F9B74FC
+Reference = J11;
+ValeurCmp = Conn_01x02_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F9906C3
+Path = /5F9A5619
+Reference = J13;
+ValeurCmp = Conn_01x02_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F9742BA
+Path = /5F9C47D8
+Reference = J10;
+ValeurCmp = Conn_01x04_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F9741F1
+Path = /5F9C3AEB
+Reference = J7;
+ValeurCmp = Conn_01x04_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F972689
+Path = /5F9A672C
+Reference = J9;
+ValeurCmp = Conn_01x04_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F970AE5
+Path = /5FA26CB6
+Reference = C4;
+ValeurCmp = C;
+IdModule  = Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F968CDF
+Path = /5F933AD4
+Reference = J14;
+ValeurCmp = Conn_01x01_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F968D64
+Path = /5EEDC90B
+Reference = U3;
+ValeurCmp = LM1117-3.3;
+IdModule  = Package_TO_SOT_THT:TO-220-3_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F99288F
+Path = /5EDEDFAF
+Reference = U1;
+ValeurCmp = TB6612FNG_modulo;
+IdModule  = Personal:TB6612FNG_modulo;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F959474
+Path = /5EDF24D3
+Reference = J5;
+ValeurCmp = RJ45;
+IdModule  = Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F9596AA
+Path = /5EE380C6
+Reference = J1;
+ValeurCmp = Bus_PCI_microbit;
+IdModule  = Personal:pci_connector_microbit;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F95974C
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F96A6D2
+Path = /5EDB9F62
+Reference = C2;
+ValeurCmp = 2200uF;
+IdModule  = Capacitor_THT:C_Radial_D10.0mm_H16.0mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F95967C
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F964426
+Path = /5EDB9418
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = Capacitor_THT:C_Radial_D5.0mm_H11.0mm_P2.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FC92C37
+Path = /5EDA5E6A
+Reference = J3;
+ValeurCmp = KRE;
+IdModule  = TerminalBlock:TerminalBlock_bornier-2_P5.08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5F959492
+Path = /5EDF134A
+Reference = J4;
+ValeurCmp = RJ45;
+IdModule  = Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FCABF9E
+Path = /5EDA8BE4
+Reference = J2;
+ValeurCmp = Jack_P4;
+IdModule  = Connector_BarrelJack:BarrelJack_Horizontal;
+EndCmp
+
+EndListe
